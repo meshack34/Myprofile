@@ -14,3 +14,4 @@ tzdata
 urllib3
 dj_database_url
 django-ckeditor
+whitenoise
